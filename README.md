@@ -1,7 +1,5 @@
 # dedsec-track-v4 - locate people using social engineering
-
-## banner
-![1](https://github.com/0xbitx/dedsec-track/blob/master/banner.png)
+<p align="center"><img src="https://github.com/0xbitx/dedsec-track-v4/blob/main/banner.png"></p>
 
 ## Information we can get:
 * Longitude
