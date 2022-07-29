@@ -39,7 +39,7 @@
 * ./install.sh 
 * python3 dedsec-track-v4.py
 
-### AVAILABLE TUNNELLING OPTIONS
+### TUNNELLING
 1. cloudflare
 ### TESTED ON FOLLOWING:
 * Kali Linux
@@ -47,11 +47,6 @@
 * Ubuntu
 * Google cloud server
 * Termux
-
-### PREREQUISITES
-* sudo - [ MUST ]
-* php
-* cloudflared
 
 ### LANGUAGE 
 * python
