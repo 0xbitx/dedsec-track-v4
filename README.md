@@ -35,7 +35,7 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/dedsec-track-v4.git
 * cd dedsec-track-v4
-* chmod +x install.sh
+* chmod +x install.sh run.sh
 * ./install.sh 
 * python3 dedsec-track-v4.py
 
