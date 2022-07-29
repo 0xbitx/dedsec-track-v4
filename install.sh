@@ -37,7 +37,6 @@ debian_install() {
 termux_install() {
     echo -e '\nINSTALLING FOR TERMUX\n' > "$ILOG"
     
-    echo -e 'Cloudflared\r'
     apt -y install cloudflared &>> "$ILOG"
     status_check cloudflared
     echo -e '\n--------------------\n' >> "$ILOG"
