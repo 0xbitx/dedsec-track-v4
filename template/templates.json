@@ -1,0 +1,46 @@
+{
+    "templates": [
+        {
+            "name": "NearYou",
+            "dir_name": "nearyou",
+            "module": false,
+            "import_file": null
+        },
+        {
+            "name": "Google Drive",
+            "dir_name": "gdrive",
+            "module": true,
+            "import_file": "mod_gdrive"
+        },
+        {
+            "name": "WhatsApp",
+            "dir_name": "whatsapp",
+            "module": true,
+            "import_file": "mod_whatsapp"
+        },
+        {
+            "name": "WhatsApp Redirect",
+            "dir_name": "whatsapp_redirect",
+            "module": true,
+            "import_file": "mod_whatsapp_redirect"
+        },
+        {
+            "name": "Telegram",
+            "dir_name": "telegram",
+            "module": true,
+            "import_file": "mod_telegram"
+        },
+        {
+            "name": "Zoom",
+            "dir_name": "zoom",
+            "module": false,
+            "import_file": null
+        },
+        {
+            "name": "Google ReCaptcha",
+            "dir_name": "captcha",
+            "module": true,
+            "import_file": "mod_captcha"
+        }
+    ]
+}
