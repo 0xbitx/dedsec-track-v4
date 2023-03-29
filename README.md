@@ -1,5 +1,5 @@
-# dedsec-track-v4 - locate people using social engineering
-<p align="center"><img src="https://github.com/0xbitx/dedsec-track-v4/blob/main/banner.png"></p>
+<h1 align="center"> DEDSEC TRACK V4 </h1>
+<img src="https://github.com/0xbitx/dedsec-track-v4/blob/main/banner.png" width="100%"> 
 
 ## Information we can get:
 * Longitude
@@ -51,7 +51,7 @@
 ### LANGUAGE 
 * python
 
-### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the dedsec-track-v4 is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
